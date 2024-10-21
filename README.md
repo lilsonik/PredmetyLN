@@ -1,2 +1,3 @@
 # PredmetyLN
-https://docs.google.com/document/d/11f2NkWLysxiqFHw29eQXcpt2J7B_JJy-_7hZhLrlXTE/edit?usp=sharing
+##***Папка алгоритмизация***
+https://drive.google.com/drive/folders/1nYjW7jN2GuM8fmxOXQCS26gLywjrEiju?usp=drive_link
